@@ -1,0 +1,8 @@
+{
+  "name": "Cana Group Construction",
+  "description": "Construction company website with portfolio, careers, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

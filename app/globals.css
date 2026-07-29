@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-natural-bg: #F4F1EA;
+  --color-natural-ink: #2D2926;
+  --color-natural-olive: #5A5A40;
+  --color-natural-earth: #8B5E3C;
+  --color-natural-slate: #E2E2D9;
+  
+  --font-sans: 'Helvetica Neue', Arial, sans-serif;
+}
